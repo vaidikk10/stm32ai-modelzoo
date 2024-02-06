@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vaidik/git/ML-on-Edge-Devices/stm32ai-modelzoo/image_classification/scripts/training/mlruns/144733257233944487/e52f63442ccb4771a5b303f4c45ae99a/artifacts
+end_time: 1706919984810
+entry_point_name: ''
+experiment_id: '144733257233944487'
+lifecycle_stage: active
+run_id: e52f63442ccb4771a5b303f4c45ae99a
+run_name: '2024_02_03_00_26_13'
+run_uuid: e52f63442ccb4771a5b303f4c45ae99a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706919973896
+status: 3
+tags: []
+user_id: Vaidik

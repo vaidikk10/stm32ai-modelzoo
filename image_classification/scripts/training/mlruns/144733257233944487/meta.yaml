@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Vaidik/git/ML-on-Edge-Devices/stm32ai-modelzoo/image_classification/scripts/training/mlruns/144733257233944487
+creation_time: 1706919741993
+experiment_id: '144733257233944487'
+last_update_time: 1706919741993
+lifecycle_stage: active
+name: MobileNetV2_128_0.25_PlantVillage

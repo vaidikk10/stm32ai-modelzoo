@@ -1,0 +1,17 @@
+Model: "Augmented_model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ Data_augmentation (Sequenti  (None, 128, 128, 3)      0         
+ al)                                                             
+                                                                 
+ Preprocessing (Sequential)  (None, 128, 128, 3)       0         
+                                                                 
+ mobilenet_v2_alpha_0.25 (Fu  (None, 5)                255173    
+ nctional)                                                       
+                                                                 
+=================================================================
+Total params: 255,173
+Trainable params: 244,517
+Non-trainable params: 10,656
+_________________________________________________________________

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Vaidik/git/ML-on-Edge-Devices/stm32ai-modelzoo/image_classification/scripts/training/mlruns/388536683093851001
+creation_time: 1706920298749
+experiment_id: '388536683093851001'
+last_update_time: 1706920298749
+lifecycle_stage: active
+name: tf_flowers
